@@ -1777,6 +1777,8 @@
                  "y":0
                 }],
          "name":"above",
+         "offsetx":0,
+         "offsety":6,
          "opacity":1,
          "properties":[
                 {
@@ -2006,6 +2008,8 @@
                  "y":0
                 }],
          "name":"above-roof",
+         "offsetx":2,
+         "offsety":6,
          "opacity":1,
          "properties":[
                 {
@@ -2014,7 +2018,7 @@
                  "value":true
                 }],
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
